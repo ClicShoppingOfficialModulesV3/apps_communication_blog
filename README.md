@@ -5,14 +5,16 @@ You can display the categories, the content, boxe and you manage different optio
 
 Important Note :
 
-Copy the apps_extra_fields.json into ClicShopping/Work/Cache/Github
+Copy the apps_communication_blog.json into ClicShopping/Work/Cache/Github
 
 licence  : GPL 2 - MIT
 
-Install :
+Install : 
 
 http://monsite/myAdmin/index.php?A&Communication\Blog
 Activate the module Design/Communication description
+
+Marketplace link : https://www.clicshopping.net/forum/files/file/16-apps-communication-blog/
 
 ![blog](https://github.com/ClicShoppingOfficialModulesV3/apps_communication_blog/blob/master/ModuleInfosJson/blog.png)
 

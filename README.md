@@ -14,7 +14,7 @@ Install :
 http://monsite/myAdmin/index.php?A&Communication\Blog
 Activate the module Design/Communication description
 
-Marketplace link : https://www.clicshopping.net/forum/files/file/16-apps-communication-blog/
+Marketplace link : https://www.clicshopping.org/forum/files/file/16-apps-communication-blog/
 
 ![blog](https://github.com/ClicShoppingOfficialModulesV3/apps_communication_blog/blob/master/ModuleInfosJson/blog.png)
 

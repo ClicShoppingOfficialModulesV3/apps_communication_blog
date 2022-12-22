@@ -1,0 +1,4 @@
+module_blog_content_linkedin_title = Souhaitez-vous installer Linkedin sur votre page de blog ?
+module_blog_content_linkedin_description = Partager ce produit sur Linkedin.
+module_blog_content_linkedin_public_title = Partager sur Linkedin
+

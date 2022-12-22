@@ -1,0 +1,2 @@
+module_blog_content_description_name = Souhaitez-vous afficher la description de l'article du blog ?
+module_blog_content_description_name_description = Affiche la description de l'article du blog

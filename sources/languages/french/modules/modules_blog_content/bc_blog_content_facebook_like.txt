@@ -1,0 +1,4 @@
+module_blog_content_facebook_like_title = Souhaitez-vous installer Facebook Like sur la page du blog ?
+module_blog_content_facebook_like_description = Partager cet article sur Facebook Like.
+module_blog_content_facebook_like_public_title = Partager sur Facebook Like
+

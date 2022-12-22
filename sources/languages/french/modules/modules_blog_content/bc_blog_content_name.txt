@@ -1,0 +1,3 @@
+
+module_blog_content_name = Souhaitez-vous afficher le titre de l'article du blog ?
+module_blog_content_name_description = Affiche le titre de l'article du blog

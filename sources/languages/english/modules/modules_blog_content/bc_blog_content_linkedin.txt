@@ -1,0 +1,5 @@
+
+ module_blog_content_linkedin_title = Do you whish install the lindedin Button on your blog ?
+ module_blog_content_linkedin_description = Share this news on Linkedin.
+ module_blog_content_linkedin_public_title = Share on Linkedin
+

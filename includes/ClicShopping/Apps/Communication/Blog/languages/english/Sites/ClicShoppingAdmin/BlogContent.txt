@@ -1,0 +1,161 @@
+heading_title = Tickets
+
+tab_general = general
+tab_ref = SEO
+tab_description = description
+
+heading_title_search = Search
+heading_title_goto = Go To:
+
+table_heading_id = ID
+table_heading_categories_products = Categories / Articles
+table_heading_action = Action
+table_heading_status = Status
+table_heading_categories = Categories
+table_heading_sort_order = Sort Order
+
+table_heading_last_modified = last modification
+table_heading_created = Created / modified
+table_heading_customers_groups = Customer group
+
+
+button_update = Update
+button_insert = Insert
+button_new_category = New category
+button_new_ticket = New ticket
+button_move = move
+button_copy = Copy
+button_archive = Archive
+button_delete = Delete
+
+icon_preview = Catalog preview
+image_move = Move
+image_edit = Edit
+image_copy_to = Copy
+image_archive_to = Archive
+image_delete = Delete
+image_unpack = Unpack
+
+text_products_seo_url = Products SEO URL
+text_edit_categories_seo_url = Category SEO URL
+text_categories_seo_url = Category SEO URL
+
+text_customers_group = Customer group
+
+text_new_product = New Ticket in {{category_name}}
+text_categories = Categories
+
+text_products_page_refefrencement = Ticket Meta Data
+text_products_page_title = Title
+text_products_header_description = Description
+text_products_description_summary = Summary
+text_products_keywords = Keywords
+text_products_tag_product = Products tag
+text_products_tag_blog = Blog tag
+
+text_move = move
+text_create = create
+text_products_author = Article Author :
+
+keywords_google_trend = Keywords Google trend
+
+
+text_products = Articles :
+
+text_date_added = Date Added
+text_date_available = Date Available
+text_last_modified = Last Modified
+text_help_wysiwyg = wysiwyg
+
+text_no_child_categories_or_products = Please insert a new category or product in this level.
+
+text_product_date_added = Product added our catalog on:
+text_product_date_available = Product in stock on:
+
+blog_content_sort_order = Sort order
+
+text_all_groups = All groups
+text_all_customers = Normal customers
+normal_customer = Normal customer
+
+text_yes = yes
+text_no = no
+text_choose = Select
+text_products_twitter = Do you whish send this article on twitter ?
+text_new_blog_twitter = New:
+
+
+text_info_copy_to_intro = Please choose a new category  you want to copy this product to
+text_info_current_categories = Current Categories:
+
+text_info_heading_new_category = New Category
+text_info_heading_edit_category = Edit Category
+text_info_heading_delete_category = Delete Category
+text_info_heading_move_category = Move Category
+text_info_heading_delete_product = Delete Product
+text_info_heading_move_product = Move Product
+text_info_heading_copy_to = Copy To
+text_info_heading_archive = Archiving Product
+text_info_archive_intro = Do you want to put this product in archive? <br /> <br /> This product can be reactivated in the archive section. <br /> <br /> <strong> Note: </strong> Archiving allows to remove your product catalog, but it does not deleted. Customers will have access to the product via search engines but they can not order it. This system is useful for referencing your site.
+
+text_delete_category_intro = Are you sure you want to delete this category?
+text_delete_product_intro = Are you sure you want to permanently delete this product in this category ?
+text_delete_product_info = Please unselect the product that you want delete (if it's a product link)?
+
+text_move = Please select which category  you want <strong>{{move}}</strong> to reside in
+text_sort_order = Sort Order:
+
+text_products_status = Status:
+
+text_products_name = Products Name
+text_products_description = Products Description
+text_categories_name = Catégorie
+text_products_presentation = Presentation
+
+text_user_name = Create; / Modify by :
+
+text_categories_image_title = Categorie main image
+text_categories_image_vignette = Categorie Image label
+text_categories_image_visuel = Currently visible image on the categorie
+text_categories_delete_image = Not display this image on this categorie
+
+empty_category = Empty Category
+
+text_how_to_copy = Copy Method:
+text_copy_as_link = Link product
+text_copy_as_duplicate = Duplicate product
+
+error_cannot_link_to_same_category = Error: Can not link products in the same category.
+error_catalog_image_directory_not_writeable = Error: Catalog images directory is not writeable
+error_cannot_move_category_to_parent = Erreur: Vous ne pouvez pas bougez cette catégorie.
+error_catalog_image_directory_does_not_exist = Error: Catalog images directory does not exist
+error_cannot_move_category_to_parent = Error : The categorie can not move in this under categorie.
+
+help_image_categories = <li>Please not insert more than one image in the section Categorie image label.</li><li>If you use the Firefox navigator, you must click twice on the button source to use the wisiwyg correctly.</li><li>If you inserted plugin in Firefox, there can be incompatibilities (ex: adblock +)</li>
+
+title_help_description = Note on the use of the wysiwyg
+help_description = <li>To activate wysiwyg, you must click twice on Source button for Firefox users.</li><li>If you inserted plugin in Firefox, there can be incompatibilities (ex: adblock more)</li>
+
+
+title_help_options = Notes on the options
+help_options = <li>The options field on the products, there aren't included in the invoice.</li><li>If  you want create or delete a field, you must go in option field management in admin section.</li>
+if the field is empty, it will not appear in the catalog.</li>
+
+title_help_general = Briefing Notes
+help_general = ;
+
+title_help_submit = Note on the search engine optimization management
+help_submit = <li>The system automatically manages the search engine optimization.<br />
+<blockquote>it automatically included elements in the following order if the fields are not filled:<br />
+title : the name of your product (ex leather jacket)<br />
+description: The product name (leather jacket), the product name cut (jacket, leather), the category name<br />
+keywords: the product name (leather jacket), the product name cut (jacket, leather), the category name<br />
+category: Category Product<br />
+</blockquote></li>
+<li>if you fill in the fields, the tags appear in the following way:<br />
+<blockquote>
+title: The title of fields, the name of your product (ex leather jacket)<br />
+description: The field description, the product name (leather jacket), the product name cut (jacket, leather), the category name<br />
+keywords: the fields keywords, the product name (leather jacket), the product name cut (jacket, leather), the category name<br />
+</blockquote></li>
+<li><strong>please do not put too keywords (maximum 10)</strong> and establish consistency between each field to find the words the most important first</li>

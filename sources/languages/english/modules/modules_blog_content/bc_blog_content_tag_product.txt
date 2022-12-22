@@ -1,0 +1,4 @@
+
+ module_blog_content_tag_product_title = Do  you want to display the product tag  in relation the content blog ?
+ module_blog_content_tag_product_description = Display the product tag in relation with the blog
+ module_text_tag_product = Products tags :

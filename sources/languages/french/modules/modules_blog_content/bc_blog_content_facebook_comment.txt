@@ -1,0 +1,5 @@
+module_blog_content_facebook_comment_title = Souhaitez-vous afficher tous les commentaires des internautes de Facebook concernant un blog ?
+module_blog_content_facebook_comment_description = Affiche les commentaires des internautes concernant sur un blog spécifique.
+  
+module_blog_content_facebook_comment_header = Partagez sur Facebook
+

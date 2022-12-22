@@ -1,0 +1,6 @@
+
+ module_blog_categories_images_title = Do  you want to display the blog categories image ?
+ module_blog_categories_images_description = Displaye the blog categories image
+ module_blog_categories_images_front_title = Blog categories
+
+

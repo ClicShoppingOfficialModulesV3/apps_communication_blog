@@ -1,0 +1,5 @@
+
+ module_blog_content_facebook_like_title = Do  you want intall the Dacebook like button on your blog ?
+ module_blog_content_facebook_like_description = Share this news on Facebook.
+ module_blog_content_facebook_like_public_title = Share on Facebook
+

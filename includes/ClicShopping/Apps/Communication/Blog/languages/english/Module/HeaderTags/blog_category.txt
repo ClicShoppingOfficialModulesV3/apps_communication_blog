@@ -1,0 +1,2 @@
+module_header_tags_blog_category_title = Do you want to use Category Title in the blog ?
+module_header_tags_blog_category_description = Add the title of the current category to the page title in the blog

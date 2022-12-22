@@ -1,0 +1,5 @@
+ module_blog_categories_images_title = Souhaitez-vous afficher sur les images des catégories  du blog ?
+ module_blog_categories_images_description = Affiche les images des catégories du blog .
+ module_blog_categories_images_front_title = Catégories du Blog
+
+

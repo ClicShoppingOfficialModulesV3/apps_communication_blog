@@ -1,0 +1,6 @@
+ module_blog_display_summary_title = Souhaitez-vous afficher un résumé du contenu du blog ?
+ module_blog_display_summary_description = Souhaitez-vous le résumé du blog ?
+ module_blog_display_summary_author = Publié par :
+ module_blog_display_summary_content = Suite
+ text_no_news = Aucun article
+

@@ -1,0 +1,6 @@
+
+ module_blog_content_facebook_comment_title = Do  you want to display the facebook comment concerning your blog ?
+ module_blog_content_facebook_comment_description = Display the facebook comment concerning your blog.
+  
+ module_blog_content_facebook_comment_header = Share on Facebook
+

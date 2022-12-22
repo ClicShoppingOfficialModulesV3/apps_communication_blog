@@ -1,0 +1,5 @@
+module_blog_content_google_plus_title = Souhaitez-vous installer le bouton google +1 sur votre page du blog ?
+module_blog_content_google_plus_public_title = Affiche le bouton google +1.
+module_blog_content_google_plus_description = Partager votre appréciation concernant cet article
+module_blog_content_google_plus_size = Veuillez choisir la taille de votre bouton
+

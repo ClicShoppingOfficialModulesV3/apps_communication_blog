@@ -1,0 +1,4 @@
+
+module_blog_content_tag_blog_title = Souhaitez-vous afficher les tags en relation avec les articles du blog ?
+module_blog_content_tag_blog_description = Affiche les tags en relation avec les articles du blog
+module_text_tag_blog = Tags blog :

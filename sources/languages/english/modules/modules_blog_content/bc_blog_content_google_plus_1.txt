@@ -1,0 +1,6 @@
+
+ module_blog_content_google_plus_1_title = Do  you want intalle the google +1 button on your blog ?
+ module_blog_content_google_plus_1_public_title = Display the Google +1 button
+ module_blog_content_google_plus_1_description = Share this news
+ module_blog_content_google_plus_1_size = Please, choose, the height button
+

@@ -1,0 +1,9 @@
+ module_blog_display_summary_title = Do  you want to display a summary on the article content ?
+ module_blog_display_summary_description = Do  you want a summary on the article content  ?
+ module_blog_display_summary_author = Published by :
+ module_blog_display_summary_content = Continue
+
+
+ text_no_news = No news
+
+

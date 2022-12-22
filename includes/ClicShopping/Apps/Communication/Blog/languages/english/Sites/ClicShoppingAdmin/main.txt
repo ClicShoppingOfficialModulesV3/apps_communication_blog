@@ -1,0 +1,38 @@
+heading_title = Blog
+module_bl_title = Blog
+module_bl_short_title = Blog
+
+text_blog = Blog
+
+text_configure =  configure App Module
+module_bl_introduction = Blog Apps install
+
+text_intro =
+- this modules depends blog_content and blog_categories modules and boxe for the shop.<br />
+- Activate this app and activate the Blog module located in Design menu and Boxes after their installation<br />
+- Don't forget to create the link in the shop with  after activate the module index.php?Blog&Categories
+
+module_ef_introduction = The install process create the database settings for this module and the access menu
+
+button_back = Back
+button_install_title = Install
+button_configure = Configure
+button_save = Save
+button_dialog_uninstall =  Uninstall
+button_uninstall =  Uninstall
+button_delete = Delete
+button_cancel = Cancel
+button_blog = Blog
+
+dialog_uninstall_title = Uninstall
+dialog_uninstall_body = Do you want to install this App ?
+dialog_uninstall_title = Uninstall Module?
+dialog_uninstall_body = Are you sure you want to uninstall this module?
+
+alert_module_install_success = Module has been successfully installed.
+alert_module_uninstall_success = Module has been successfully uninstalled.
+alert_cfg_saved_success = Configuration parameters have been successfully saved.
+
+link_catalog = Link to create inside catalog to Access App Blog
+
+icon_folder = Folder

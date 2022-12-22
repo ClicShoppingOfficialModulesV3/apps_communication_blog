@@ -1,0 +1,2 @@
+module_bl_short_title = Blog
+module_bl_introduction = Blog Apps installation

@@ -1,0 +1,7 @@
+module_blog_wordpress_title = Connecteur Wordpress
+module_blog_wordpress_description = Affiche les dernières tickets de votre page de blog.
+
+module_blog_wordpress_heading = Dernières news
+module_blog_wordpress_button_view = En savoir plus
+module_blog_wordpress_wrote = A écrit
+

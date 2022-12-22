@@ -1,0 +1,4 @@
+
+ module_blog_content_tag_blog_title = Do  you want to display the article tag  in relation the content blog ?
+ module_blog_content_tag_blog_description = Display the content tag in relation with the blog
+ module_text_tag_blog = Tags blog :

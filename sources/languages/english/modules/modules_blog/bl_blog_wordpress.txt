@@ -1,0 +1,7 @@
+module_blog_wordpress_title = Wordpress Connector
+module_blog_wordpress_description = Shows latest Wordpress posts module on your blog page.
+
+module_blog_wordpress_heading = Latest News
+module_blog_wordpress_button_view = Read more
+module_blog_wordpress_wrote = Wrote
+  

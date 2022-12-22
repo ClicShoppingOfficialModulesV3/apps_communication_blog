@@ -1,0 +1,3 @@
+title_menu = Blog
+title_menu_blog_categories = Blog Categories
+title_menu_blog_content = Tickets / Articles

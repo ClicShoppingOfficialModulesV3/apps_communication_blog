@@ -1,0 +1,5 @@
+module_header_tags_blog_category_title = Souhaitez-vous utiliser les balises meta dans les catégories du blog ?
+module_header_tags_blog_category_description = Ajouter les balises meta dans la catégorie courante du blog
+
+
+

@@ -1,0 +1,2 @@
+module_header_tags_blog_content_title = Souhaitez-vous afficher les balises dans la page du contenu de l'article blog ?
+module_header_tags_blog_content_description = Ajouter les balises métas dans la page de contenu du blog

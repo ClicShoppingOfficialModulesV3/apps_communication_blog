@@ -1,0 +1,2 @@
+module_header_tags_blog_content_title = Do you want to use the meta for content blog page ?
+module_header_tags_blog_content_description = Add the metas in content blog page

@@ -1,0 +1,4 @@
+
+ module_boxes_blog_categories_title = Do  you want to display the blog categories ?
+ module_boxes_blog_description = Display the tre blog categories in the shop
+ module_boxes_blog_categories_box_title = Blog Categories

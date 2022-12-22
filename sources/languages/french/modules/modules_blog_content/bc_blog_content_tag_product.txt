@@ -1,0 +1,4 @@
+
+module_blog_content_tag_product_title = Souhaitez-vous afficher les tags en relation avec les produits  dans l'article du blog ?
+module_blog_content_tag_product_description = Affiche les tags en relation avec les produits dans l'article du blog
+module_text_tag_product = Tags produits :

@@ -1,0 +1,5 @@
+
+ module_blog_content_twitter_button_title = Do  you want install the twitter button on your blog ?
+ module_blog_content_twitter_button_description = Share this news with twitter.
+ module_blog_content_twitter_button_public_title = Tweet
+

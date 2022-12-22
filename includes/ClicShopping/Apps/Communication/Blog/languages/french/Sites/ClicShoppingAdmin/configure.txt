@@ -1,0 +1,1 @@
+module_bl_short_title = Blog
